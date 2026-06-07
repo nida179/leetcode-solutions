@@ -15,9 +15,14 @@ My LeetCode solutions synced via LeetSync
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/nida179/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nida179/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/nida179/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/nida179/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
