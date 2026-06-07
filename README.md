@@ -16,6 +16,7 @@ My LeetCode solutions synced via LeetSync
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nida179/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/nida179/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nida179/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
