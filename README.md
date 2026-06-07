@@ -33,4 +33,20 @@ My LeetCode solutions synced via LeetSync
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nida179/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/nida179/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/nida179/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/nida179/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/nida179/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/nida179/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
