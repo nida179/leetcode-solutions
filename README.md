@@ -41,6 +41,7 @@ My LeetCode solutions synced via LeetSync
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nida179/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nida179/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nida179/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nida179/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -63,4 +64,8 @@ My LeetCode solutions synced via LeetSync
 | [0094-binary-tree-inorder-traversal](https://github.com/nida179/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nida179/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nida179/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nida179/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
